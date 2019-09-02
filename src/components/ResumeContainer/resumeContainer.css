@@ -1,0 +1,18 @@
+.pdf-container {
+    height: 60rem;
+    width: 100%;
+    text-align: center;
+}
+
+.pdf-viewer {
+    height: 100%;
+    width: 100%;
+}
+
+.card-body {
+    padding: 0;
+}
+
+.summary-text {
+    font-size: 16pt;
+}
